@@ -30,6 +30,10 @@ research, platform capabilities, and contact channels in a single,
 performant static bundle ready for deployment to Vercel, Netlify, GitHub
 Pages, or any static host.
 
+> This project was built in collaboration with
+> **[Ghania Tanveer](https://github.com/ghaniatanveer)** — AI/ML Engineer and
+> co-founder of GH AI.
+
 ---
 
 ## Live Demo
@@ -174,15 +178,23 @@ This is plain HTML/CSS/JS — any static host works:
     <td align="center" width="50%">
       <b>Ghania Tanveer</b><br/>
       CEO &amp; AI Research Lead<br/>
+      <a href="https://github.com/ghaniatanveer">GitHub</a> ·
       <a href="https://www.linkedin.com/in/ghania-tanveer-894625311/">LinkedIn</a>
     </td>
     <td align="center" width="50%">
       <b>Muhammad Haseeb</b><br/>
       CTO &amp; Engineering<br/>
+      <a href="https://github.com/GitwithHaseeb">GitHub</a> ·
       <a href="https://www.linkedin.com/in/muhammad-haseeb-5a73bb317/">LinkedIn</a>
     </td>
   </tr>
 </table>
+
+### Acknowledgements
+
+This project was made by **Muhammad Haseeb** in collaboration with
+**[Ghania Tanveer](https://github.com/ghaniatanveer)**. Thank you for the
+design feedback, research direction, and partnership in building GH AI.
 
 ---
 
