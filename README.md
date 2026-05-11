@@ -8,10 +8,12 @@ A production-ready, multi-page marketing website for **GH AI**, an enterprise
 artificial intelligence company specializing in computer vision, large
 language models, and autonomous agents.
 
+### [Live Site — gh-ai-artificial-intelligence-start.vercel.app](https://gh-ai-artificial-intelligence-start.vercel.app/)
+
 [![Made with HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
+[![Deployed on Vercel](https://img.shields.io/badge/Live-Vercel-black?style=for-the-badge&logo=vercel)](https://gh-ai-artificial-intelligence-start.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](#license)
 
 </div>
@@ -40,7 +42,7 @@ Pages, or any static host.
 
 | Environment | URL |
 | ----------- | --- |
-| Production  | _Add your Vercel URL here after deployment_ |
+| Production  | <https://gh-ai-artificial-intelligence-start.vercel.app/> |
 | Repository  | <https://github.com/GitwithHaseeb/GH-AI---Artificial-Intelligence-Startup> |
 
 ---
